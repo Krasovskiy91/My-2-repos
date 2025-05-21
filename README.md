@@ -14,3 +14,5 @@ git push
   └─ emoji_generator.js
   └─ README.md
 ...
+
+Day4 добавляю новый комментарий!
